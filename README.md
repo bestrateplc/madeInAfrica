@@ -1,6 +1,9 @@
 # madeInAfrica
+.
 PLC programs coded in Africa
+.
 Backtranslation and Compilation of the following:
+
 Machine code
 Assembler
 Ladder
